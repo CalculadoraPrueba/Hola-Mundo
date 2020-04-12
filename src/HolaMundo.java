@@ -22,8 +22,6 @@ public class HolaMundo {
 				calculo.Restar();
 				break;
 	
-			default:
-				System.out.println("No existe esa opcion vuelva a ingresar");
 			}
 			
 			System.out.println("1. Sumar");
