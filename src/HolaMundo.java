@@ -21,12 +21,13 @@ public class HolaMundo {
 			case 2: 
 				calculo.Restar();
 				break;
-	
+			
+			
 			}
 			
 			System.out.println("1. Sumar");
 			System.out.println("2. Restar");
-			System.out.println("0. Terminar");
+			System.out.println("0. Tkjskjkas");
 			opcion = teclado.nextInt();
 		}
 		
