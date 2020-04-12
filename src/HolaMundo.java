@@ -27,7 +27,7 @@ public class HolaMundo {
 			
 			System.out.println("1. Sumar");
 			System.out.println("2. Restar");
-			System.out.println("0. Tkjskjkas");
+			System.out.println("0. Terminar");
 			opcion = teclado.nextInt();
 		}
 		

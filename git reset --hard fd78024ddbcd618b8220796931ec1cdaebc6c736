@@ -1,0 +1,53 @@
+[33mcommit fd78024ddbcd618b8220796931ec1cdaebc6c736[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mHolaMundo/master[m[33m)[m
+Author: Andrijasevich Federico <fede_andrijasevich@hotmail.com>
+Date:   Sun Apr 12 19:36:55 2020 -0300
+
+    Elimino commits.txt
+
+[33mcommit 0b5c09bab634bf2c71cfe322cf2dfe6662d27cbd[m
+Author: Andrijasevich Federico <fede_andrijasevich@hotmail.com>
+Date:   Sun Apr 12 17:32:11 2020 -0300
+
+    Desarrollo funcion Restar()
+
+[33mcommit 88c217f100b7a7fb3d6c8cc5deb65621594f5692[m
+Author: Andrijasevich Federico <fede_andrijasevich@hotmail.com>
+Date:   Sun Apr 12 15:26:31 2020 -0300
+
+    Se elimino el default en el Switch
+
+[33mcommit 2d897dc3f20b2b22dc12ad285d4cda9115fc0af6[m[33m ([m[1;31mHolaMundo/test[m[33m)[m
+Author: Andrijasevich Federico <fede_andrijasevich@hotmail.com>
+Date:   Sun Apr 12 15:11:33 2020 -0300
+
+    Se elimino en HolaMundo opciones de funciones que todavia no se crearon
+
+[33mcommit 8bc5e25d91ebb41f5d511370fbeaa6b2c98fb442[m
+Author: Andrijasevich Federico <fede_andrijasevich@hotmail.com>
+Date:   Sun Apr 12 01:21:45 2020 -0300
+
+    Creacion funcion Restar()
+
+[33mcommit b7b5ed8c9494626e9d21732e0c3d4809f6f9e111[m
+Author: Andrijasevich Federico <fede_andrijasevich@hotmail.com>
+Date:   Sun Apr 12 00:32:12 2020 -0300
+
+    Agrego al proyecto archivo de commits.txt
+
+[33mcommit 80379bbfe5653d3da09b119d072cf1eece3017cb[m
+Author: Andrijasevich Federico <fede_andrijasevich@hotmail.com>
+Date:   Sat Apr 11 22:18:56 2020 -0300
+
+    Modificacion de funcion Sumar()
+
+[33mcommit 79218f4f4e2dd1926d772e4acf7f5672f51e9490[m
+Author: Andrijasevich Federico <fede_andrijasevich@hotmail.com>
+Date:   Sat Apr 11 22:13:30 2020 -0300
+
+    Agrega funcion Sumar()
+
+[33mcommit 02c39e30210c69006c4bea0ce2e4266ac84b5ef4[m
+Author: Andrijasevich Federico <fede_andrijasevich@hotmail.com>
+Date:   Sat Apr 11 22:05:50 2020 -0300
+
+    Iniciamos proyecto
