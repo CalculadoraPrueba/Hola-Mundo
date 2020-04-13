@@ -7,6 +7,7 @@ public class HolaMundo {
 		Scanner teclado = new Scanner(System.in);
 		System.out.println("1. Sumar");
 		System.out.println("2. Restar");
+		System.out.println("3. Multiplicar");
 		System.out.println("0. Terminar");
 		Integer opcion = teclado.nextInt();
 		
@@ -22,11 +23,15 @@ public class HolaMundo {
 				calculo.Restar();
 				break;
 			
+			case 3: 
+				calculo.Multiplicar();
+				break;
 			
 			}
 			
 			System.out.println("1. Sumar");
 			System.out.println("2. Restar");
+			System.out.println("3. Multiplicar");
 			System.out.println("0. Terminar");
 			opcion = teclado.nextInt();
 		}

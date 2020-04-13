@@ -23,6 +23,10 @@ public class Calculadora {
 		Integer resultado = numero1 + numero2;
 		System.out.println(numero1 + " - " + numero2 + "= " + resultado);
 	}
+	
+	public void Multiplicar() {
+		
+	}
 }
 	
 		
