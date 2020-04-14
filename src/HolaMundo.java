@@ -8,6 +8,7 @@ public class HolaMundo {
 		System.out.println("1. Sumar");
 		System.out.println("2. Restar");
 		System.out.println("3. Multiplicar");
+		System.out.println("4. Dividir");
 		System.out.println("0. Terminar");
 		Integer opcion = teclado.nextInt();
 		
@@ -27,11 +28,15 @@ public class HolaMundo {
 				calculo.Multiplicar();
 				break;
 			
+			case 4:
+				calculo.Dividir();
+				break;
 			}
 			
 			System.out.println("1. Sumar");
 			System.out.println("2. Restar");
 			System.out.println("3. Multiplicar");
+			System.out.println("4. Dividir");
 			System.out.println("0. Terminar");
 			opcion = teclado.nextInt();
 		}
